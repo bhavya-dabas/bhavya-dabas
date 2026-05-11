@@ -68,4 +68,4 @@ and a zero-downtime CI/CD pipeline on a cloud VM.
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/bhavya-dabas-306165258/) ·
+[LinkedIn](https://www.linkedin.com/in/bhavya-dabas-306165258/)
